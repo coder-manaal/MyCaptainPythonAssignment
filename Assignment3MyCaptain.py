@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+#creating a function called most_frequent that takes a string and prints the letters in decreasing order of frequency
 
 
 def most_frequent(string):
@@ -14,10 +14,3 @@ def most_frequent(string):
     return d
 
 print (most_frequent('Mississippi'))
-
-
-# In[ ]:
-
-
-
-
