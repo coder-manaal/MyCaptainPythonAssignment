@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
 
 # Program to display the Fibonacci series
 
@@ -26,10 +24,3 @@ else:
        n1 = n2
        n2 = nth
        count += 1
-
-
-# In[ ]:
-
-
-
-
